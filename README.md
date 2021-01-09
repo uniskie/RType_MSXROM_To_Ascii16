@@ -1,6 +1,6 @@
 ﻿# RType_MSXROM_To_Ascii16
  
-■ R-Typeの特殊ROMバンクを変更してASCII 16KBバングに変更するツール
+■ R-Typeの特殊ROMバンクを変更してASCII 16KBバンクに変更するツール
 
 「rtype_to_ascii16.exe」 .... アールタイプをASCII16化するツール
 
