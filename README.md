@@ -5,7 +5,7 @@
 「rtype_to_ascii16.exe」 .... アールタイプをASCII16化するツール
 
 R-TypeのROMは特殊なバンクであるため、対応しないエミュレータがあります。
-またMegaFlashROM・MegaRAM・Carvonire2などでもそのままでは動作しません。
+またMegaFlashROM/MegaRAM/Carvonire2などでもそのままでは動作しません。
 そこで、
 ASCII16KタイプのROMとして動作するようにROMイメージを書き換えるツール
 を作りました。
